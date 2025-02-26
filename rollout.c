@@ -37,7 +37,7 @@
 #include "format.h"
 #include "multithread.h"
 #include "rollout.h"
-#include "lib/simd.h"
+#include "simd.h"
 
 #define LogCubeClamped(n) (n < (1 << STAT_MAXCUBE) ? LogCube(n) : (STAT_MAXCUBE - 1))
 

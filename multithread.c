@@ -33,7 +33,7 @@
 #include "rollout.h"
 #include "util.h"
 #include "drawboard.h" /*for FormatMove()*/
-#include "lib/simd.h"
+#include "simd.h"
 
 #if defined(USE_MULTITHREAD)
 

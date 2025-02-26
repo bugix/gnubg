@@ -61,7 +61,7 @@ When analyzing in the background, various menus are disabled so the user does no
 #include "progress.h"
 #include "multithread.h"
 #include "format.h"
-#include "lib/simd.h"
+#include "simd.h"
 
 const char *aszRating[N_RATINGS] = {
     N_("rating|Awful!"),

@@ -34,7 +34,7 @@
 #include "simd.h"
 #include "multithread.h"
 #include "util.h"
-#include "lib/simd.h"
+#include "simd.h"
 
 typedef void (*classstatusfunc) (char *szOutput);
 typedef int (*cfunc) (const void *, const void *);

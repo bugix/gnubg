@@ -29,8 +29,8 @@
 #include <stdlib.h>
 #endif
 
-#include "lib/isaac.h"
-#include "lib/simd.h"
+#include "isaac.h"
+#include "simd.h"
 
 #define EVALS_PER_ITERATION 1024
 

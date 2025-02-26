@@ -3247,7 +3247,7 @@ msgstr "Vis udrulningsindstillinger"
 msgid "Agree to an offered double"
 msgstr ""
 
-#: non-src/credits.c:22
+#: credits.c:22
 #, fuzzy
 msgid ""
 "Copyright (C) 1999-2004 Gary Wong.\n"
@@ -3256,85 +3256,85 @@ msgstr ""
 "Copyright (C) 1999-2004 Gary Wong.\n"
 "Copyright (C) 2004-2021 the AUTHORS; for details type `show version'."
 
-#: non-src/credits.c:56 non-src/credits.c:58
+#: credits.c:56 credits.c:58
 msgid "Web Pages"
 msgstr "Websider"
 
-#: non-src/credits.c:57
+#: credits.c:57
 msgid "Manual"
 msgstr "Manual"
 
-#: non-src/credits.c:59
+#: credits.c:59
 msgid "Tutorial"
 msgstr "Tutorial"
 
-#: non-src/credits.c:64 gtkgame.c:3644
+#: credits.c:64 gtkgame.c:3644
 msgid "Czech"
 msgstr "Tjekkisk"
 
-#: non-src/credits.c:65 gtkgame.c:3645
+#: credits.c:65 gtkgame.c:3645
 msgid "Danish"
 msgstr "Dansk"
 
-#: non-src/credits.c:66 gtkgame.c:3648
+#: credits.c:66 gtkgame.c:3648
 #, fuzzy
 msgid "Finnish"
 msgstr "/_Parti/_Afslut træk"
 
-#: non-src/credits.c:67 gtkgame.c:3649
+#: credits.c:67 gtkgame.c:3649
 msgid "French"
 msgstr "Fransk"
 
-#: non-src/credits.c:68 gtkgame.c:3650
+#: credits.c:68 gtkgame.c:3650
 msgid "German"
 msgstr "Tysk"
 
-#: non-src/credits.c:69 gtkgame.c:3651
+#: credits.c:69 gtkgame.c:3651
 msgid "Greek"
 msgstr ""
 
-#: non-src/credits.c:70 gtkgame.c:3652
+#: credits.c:70 gtkgame.c:3652
 msgid "Icelandic"
 msgstr "Islandsk"
 
-#: non-src/credits.c:71 gtkgame.c:3653
+#: credits.c:71 gtkgame.c:3653
 msgid "Italian"
 msgstr "Italiensk"
 
-#: non-src/credits.c:72 gtkgame.c:3654
+#: credits.c:72 gtkgame.c:3654
 msgid "Japanese"
 msgstr "Japansk"
 
-#: non-src/credits.c:73 gtkgame.c:3655
+#: credits.c:73 gtkgame.c:3655
 msgid "Romanian"
 msgstr ""
 
-#: non-src/credits.c:74 gtkgame.c:3656
+#: credits.c:74 gtkgame.c:3656
 msgid "Russian"
 msgstr "Russisk"
 
-#: non-src/credits.c:75 gtkgame.c:3657
+#: credits.c:75 gtkgame.c:3657
 msgid "Spanish"
 msgstr "Spansk"
 
-#: non-src/credits.c:76 gtkgame.c:3658
+#: credits.c:76 gtkgame.c:3658
 msgid "Turkish"
 msgstr "Tyrkisk"
 
-#: non-src/credits.c:204
+#: credits.c:204
 #, fuzzy
 msgid "Authors"
 msgstr "Hjælper"
 
-#: non-src/credits.c:205
+#: credits.c:205
 msgid "Code Contributors"
 msgstr "Bidragsydere"
 
-#: non-src/credits.c:206
+#: credits.c:206
 msgid "Translations"
 msgstr "Oversættelser"
 
-#: non-src/credits.c:207
+#: credits.c:207
 msgid "Support"
 msgstr "Support"
 

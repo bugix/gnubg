@@ -29,7 +29,7 @@
 #endif
 #include <string.h>
 
-#include "lib/simd.h"
+#include "simd.h"
 
 SSE_ALIGN(ThreadData td);
 

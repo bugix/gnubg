@@ -119,7 +119,7 @@
 #include "eval.h"
 #include "matchid.h"
 #include "multithread.h"
-#include "lib/gnubg-types.h"
+#include "gnubg-types.h"
 
 #if HAVE_SOCKETS
 

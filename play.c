@@ -64,7 +64,7 @@ today to correct the title manually.
 #include "sound.h"
 #include "renderprefs.h"
 #include "md5.h"
-#include "lib/simd.h"
+#include "simd.h"
 
 #if defined (USE_GTK)
 #include "gtkboard.h"

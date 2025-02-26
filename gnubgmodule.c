@@ -34,8 +34,8 @@
 #include "matchid.h"
 #include "multithread.h"
 #include "util.h"
-#include "lib/gnubg-types.h"
-#include "lib/simd.h"
+#include "gnubg-types.h"
+#include "simd.h"
 
 #if defined(USE_GTK)
 #include "gtkgame.h"

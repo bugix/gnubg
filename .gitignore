@@ -76,3 +76,5 @@ compile
 *.la
 .dirstamp
 typescript
+.idea
+builddir
